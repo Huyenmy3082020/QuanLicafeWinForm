@@ -1,0 +1,13 @@
+D:\Window-Form\QuanLiCafe\QuanLiCafe\bin\Debug\QuanLiCafe.exe.config
+D:\Window-Form\QuanLiCafe\QuanLiCafe\bin\Debug\QuanLiCafe.exe
+D:\Window-Form\QuanLiCafe\QuanLiCafe\bin\Debug\QuanLiCafe.pdb
+D:\Window-Form\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.csproj.AssemblyReference.cache
+D:\Window-Form\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.Form1.resources
+D:\Window-Form\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.Properties.Resources.resources
+D:\Window-Form\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.csproj.GenerateResource.cache
+D:\Window-Form\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.csproj.CoreCompileInputs.cache
+D:\Window-Form\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.exe
+D:\Window-Form\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.pdb
+D:\Window-Form\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.TableManeger.resources
+D:\Window-Form\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.ThongTinCaNhan.resources
+D:\Window-Form\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.Admin.resources
